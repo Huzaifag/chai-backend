@@ -1,0 +1,16 @@
+{
+  "name": "03_chai_backend",
+  "version": "1.0.0",
+  "description": "a video tutorial on javascript backend by Hitesh Sir on chai aur code youtube channel.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx nodemon index.js"
+  },
+  "keywords": [
+    "javascript",
+    "code"
+  ],
+  "author": "Huzaifa Gulzar",
+  "license": "ISC"
+}
