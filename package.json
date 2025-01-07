@@ -5,12 +5,15 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "npx nodemon index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
     "code"
   ],
   "author": "Huzaifa Gulzar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
